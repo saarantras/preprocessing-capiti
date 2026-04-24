@@ -62,6 +62,12 @@ accessions. Goal: homogenize to a structural reference per row.
    band) are kept in `capiti_E_unresolved.tsv`; everything else is
    appended to `capiti_E_splitdb_pdb.tsv` with `db=AF`, `chain=A`,
    `id=<UniProt>`, and `confidence=<mean pLDDT>`.
+3. `anonymize_E.py` -- emits `capiti_E_targets_anonymized.tsv`, a
+   leakage-free target list for downstream ML: rows become `T-E<N>` IDs
+   with only `db`, `id`, `chain`, `method`, `resolution`, `confidence`.
+   `method`/`resolution` are fetched from RCSB for PDB rows;
+   `confidence` is mean pLDDT for AF rows. Targets are assigned in
+   sorted order of (db, id, chain) for reproducibility.
 
 ### CAPITI-E numbers
 
@@ -81,3 +87,4 @@ accessions. Goal: homogenize to a structural reference per row.
 - `capiti_E_splitdb.tsv` -- CAPITI-E input list (mixed db identifiers).
 - `capiti_E_splitdb_pdb.tsv` -- CAPITI-E homogenized output (PDB + AF).
 - `capiti_E_unresolved.tsv` -- CAPITI-E rows with no available structure.
+- `capiti_E_targets_anonymized.tsv` -- CAPITI-E anonymized ML target list.
