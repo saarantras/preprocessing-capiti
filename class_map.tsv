@@ -1,0 +1,19 @@
+Better_List_Class	Match_Mode	CARD_Token	Drugs
+Aminoglycosides	class	aminoglycoside antibiotic	Plazomicin
+Carbapenems	class	carbapenem	Imipenem/cilastatin/relebactam;Meropenem/vaborbactam
+Fifth-generation-cephalosporins	class	cephalosporin	Ceftaroline-fosamil;Ceftobiprole-medocaril;Ceftolozane/tazobactam
+Glycopeptides	class	glycopeptide antibiotic	Dalbavancin;Oritavancin;Telavancin
+Glycylcyclines	class	glycylcycline	Tigecycline
+Lipopeptides	name	daptomycin (lipopeptide)	Daptomycin
+Monobactam/beta-lactamase-inhibitor	class	monobactam	Aztreonam/avibactam
+Monobactams	class	monobactam	Aztreonam;Carumonam
+Other-cephalosporins	class	cephalosporin	Cefiderocol
+Oxazolidinones	class	oxazolidinone antibiotic	Linezolid;Tedizolid
+Penems	unmapped	(no CARD class; faropenem absent from CARD)	Faropenem
+Phosphonics	class	phosphonic acid antibiotic	Fosfomycin_IV
+Pleuromutilin	class	pleuromutilin antibiotic	Lefamulin
+Polymyxins	name	polymyxin/colistin (peptide antibiotic)	Colistin_IV;Colistin_oral;Polymyxin-B_IV;Polymyxin-B_oral
+Streptogramins	class	streptogramin antibiotic	Dalfopristin/quinupristin
+Tetracyclines	class	tetracycline antibiotic	Eravacycline;Minocycline_IV;Omadacycline
+Third-generation-cephalosporins	class	cephalosporin	Ceftazidime/avibactam
+Trimethoprim-derivatives	class	diaminopyrimidine antibiotic	Iclaprim

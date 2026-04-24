@@ -1,0 +1,61 @@
+Antibiotic	Class	ATC code	Category	Listed on EML/EMLc 2025	Notes
+
+Aztreonam	Monobactams	J01DF01	Reserve	No	0
+
+Aztreonam/avibactam	Monobactam/beta-lactamase-inhibitor	J01DF51	Reserve	No	0
+
+Carumonam	Monobactams	J01DF02	Reserve	No	0
+
+Cefiderocol	Other-cephalosporins	J01DI04	Reserve	Yes	0
+
+Ceftaroline-fosamil	Fifth-generation-cephalosporins	J01DI02 	Reserve	No	0
+
+Ceftazidime/avibactam	Third-generation-cephalosporins	J01DD52	Reserve	Yes	0
+
+Ceftobiprole-medocaril	Fifth-generation-cephalosporins	J01DI01	Reserve	No	0
+
+Ceftolozane/tazobactam	Fifth-generation-cephalosporins	J01DI54	Reserve	Yes	0
+
+Colistin_IV	Polymyxins	J01XB01	Reserve	Yes	0
+
+Colistin_oral	Polymyxins	A07AA10	Reserve	No	0
+
+Dalbavancin	Glycopeptides	J01XA04	Reserve	No	0
+
+Dalfopristin/quinupristin	Streptogramins	J01FG02	Reserve	No	0
+
+Daptomycin	Lipopeptides	J01XX09	Reserve	No	0
+
+Eravacycline	Tetracyclines	J01AA13	Reserve	No	0
+
+Faropenem	Penems	J01DI03	Reserve	No	0
+
+Fosfomycin_IV	Phosphonics	J01XX01	Reserve	Yes	0
+
+Iclaprim	Trimethoprim-derivatives	J01EA03	Reserve	No	0
+
+Imipenem/cilastatin/relebactam	Carbapenems	J01DH56	Reserve	No	0
+
+Lefamulin	Pleuromutilin	J01XX12	Reserve	No	0
+
+Linezolid	Oxazolidinones	J01XX08	Reserve	Yes	0
+
+Meropenem/vaborbactam	Carbapenems	J01DH52	Reserve	Yes	0
+
+Minocycline_IV	Tetracyclines	J01AA08	Reserve	No	0
+
+Omadacycline	Tetracyclines	J01AA15	Reserve	No	0
+
+Oritavancin	Glycopeptides	J01XA05	Reserve	No	0
+
+Plazomicin	Aminoglycosides	J01GB14	Reserve	Yes	0
+
+Polymyxin-B_IV	Polymyxins	J01XB02	Reserve	Yes	0
+
+Polymyxin-B_oral	Polymyxins	A07AA05	Reserve	No	0
+
+Tedizolid	Oxazolidinones	J01XX11	Reserve	Yes	*therapeutic alternative to linezolid (EML)
+
+Telavancin	Glycopeptides	J01XA03	Reserve	No	0
+
+Tigecycline	Glycylcyclines	J01AA12	Reserve	No	0
