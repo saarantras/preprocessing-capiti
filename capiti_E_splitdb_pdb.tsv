@@ -1,0 +1,62 @@
+	chain	db	id	source	original_id	confidence	note
+0	B	PDB	2Q3N	original			
+1	A	PDB	5Z3J	original			
+3	B	PDB	2E4M	original			
+4	C	PDB	2E4M	original			
+5	A	PDB	2ZS6	original			
+6	B	PDB	5V8U	original			
+7	C	PDB	3K3Q	original			
+8	D	PDB	3ZUS	original			
+9	G	PDB	5JMC	original			
+10	A	PDB	6ES1	original			
+11	A	PDB	1F82	original			
+12	B	PDB	6G5K	original			
+13	B	PDB	3N7K	original			
+14	A	PDB	3OBT	original			
+15	D	PDB	3RMX	original			
+16	A	PDB	7K84	original			
+17	B	PDB	1ZN3	original			
+18	F	PDB	4ZKT	original			
+19	A	PDB	2A8A	original			
+20	B	PDB	2A97	original			
+21	G	PDB	3MPP	original			
+22	A	PDB	7KZ7	original			
+23	A	PDB	1CA1	original			
+26	A	PDB	1UYJ	resolved	Q57398		
+27	A	PDB	1GIQ	original			
+28	A	PDB	5V5G	original			
+29	A	PDB	4U2X	original			
+30	J	PDB	3MXG	original			
+31	A	PDB	4M1U	original			
+32	A	PDB	6FFA	original			
+33	A	PDB	8DNG	original			
+34	A	PDB	4FVU	original			
+35	A	PDB	8B07	original			
+36	A	PDB	8C9K	original			
+37	A	PDB	6OBM	original			
+38	B	PDB	2AAI	original			
+39	A	PDB	5OOO	original			
+40	A	PDB	3ANZ	original			
+41	A	PDB	1ESF	original			
+42	A	PDB	3SEB	original			
+43	A	PDB	1STE	original			
+44	A	PDB	1CK1	original			
+47	A	PDB	1XXG	original			
+48	A	PDB	1F77	original			
+50	A	PDB	2NTT	original			
+57	A	PDB	6KRY	original			
+64	A	PDB	5U75	original			
+65	A	PDB	4OHJ	original			
+66	A	PDB	6S8C	original			
+67	A	PDB	7FFE	original			
+68	A	PDB	1XTC	original			
+69	D	PDB	1XTC	original			
+70	A	PDB	2RG9	original			
+71	B	PDB	2RG9	original			
+2	A	AF	Q70US9	alphafold	Q70US9	93.81	AF model AF-Q70US9-F1
+24	A	AF	O86264	alphafold	O86264	81.06	AF model AF-O86264-F1
+25	A	AF	Q46308	alphafold	Q46308	85.56	AF model AF-Q46308-F1
+46	A	AF	A0AA40JLD8	alphafold	WP_044122767.1	89.56	AF model AF-A0AA40JLD8-F1
+49	A	AF	Q0PRM7	alphafold	Q0PRM7	89.88	AF model AF-Q0PRM7-F1
+56	A	AF	B0I1V7	alphafold	WP_032492129.1	87.50	AF model AF-B0I1V7-F1
+59	A	AF	Q6XXM5	alphafold	Q6XXM5	88.06	AF model AF-Q6XXM5-F1

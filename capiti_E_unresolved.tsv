@@ -1,0 +1,12 @@
+	chain	db	id	note
+45	A	NCBI	WP_053819437.1	no PDB, no AlphaFold entry
+51	A	NCBI	VDZ34195.1	no PDB, no AlphaFold entry
+52	A	NCBI	EEV03781.1	no PDB, no AlphaFold entry
+53	A	NCBI	GBR90786.1	no PDB, no AlphaFold entry
+54	A	NCBI	WP_086098263.1	no PDB, no AlphaFold entry
+55	A	NCBI	WP_049880132.1	no PDB, no AlphaFold entry
+58	A	NCBI	ADC37997.1	no PDB, no AlphaFold entry
+60	A	NCBI	WP_115289619.1	no PDB, no AlphaFold entry
+61	A	NCBI	WP_155560339.1	no PDB, no AlphaFold entry
+62	A	NCBI	ADC37994.1	no PDB, no AlphaFold entry
+63	A	NCBI	ADC37993.1	no PDB, no AlphaFold entry
